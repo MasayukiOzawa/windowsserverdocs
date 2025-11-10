@@ -260,7 +260,7 @@ Complete the following steps to migrate VMware virtual machines to Hyper-V in Wi
 ### VM conversion logs
 
 1. Connect to the Windows Admin Center server.
-1. Find the file located at `C:\ProgramFiles\WindowsAdminCenter\Service\VMConversion_log.txt`.
+1. Find the file located at `C:\Program Files\WindowsAdminCenter\Service\VMConversion_log.txt`.
 
 ## Frequently asked questions
 
